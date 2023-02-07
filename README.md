@@ -6,4 +6,4 @@ Another line, but added from Intel MDX macbook in RStudio.
 Don't know how this will work with SurveyMonkey.  
 
 
-Anoher test too see if ting still work
+Another test to see if things still work
